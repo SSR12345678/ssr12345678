@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ssr12345678" alt="ssr12345678" /></a> </p>
 
-- 🔭 I’m currently working on [Image Serching](findnewimage.netlify.app)
+- 🔭 I’m currently working on [Image Searching](findnewimage.netlify.app)
 
 - 🌱 I’m currently learning **Spring Boot**
 
